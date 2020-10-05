@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Clase0510</string>
+    <string name="boton">Hola</string>
+    <string name="text">chao</string>
 </resources>
